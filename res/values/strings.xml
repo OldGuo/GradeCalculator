@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="currentGrade">Current Grade</string>
+    <string name="whatWant">The Grade You Want</string>
+    <string name="finalWorth">Your Final is Worth</string>
+    <string name="app_name">Finals Calculator</string>
+    <string name="whatNeed">What You Need on the Final</string>
+	<color name="white">#FFFFFF</color>
+</resources>
